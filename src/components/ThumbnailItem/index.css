@@ -1,0 +1,13 @@
+/* Write your code here. */
+.thumbnail-list {
+  margin: 4px;
+  opacity: 0.5;
+}
+
+.thumbnail-image {
+  height: 50px;
+  width: 50px;
+}
+.active-btn {
+  margin: 4px;
+}
